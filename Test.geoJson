@@ -1,0 +1,183 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-72.6411923, 42.3250492]
+  },
+ "properties": {
+        "address": "111 MAIN ST, AMHERST, MA, 01002", 
+        "organization_name": "Amherst", 
+        "city": "Amherst", 
+        "web_url": "", 
+        "phone_numbers": [
+          ""
+        ], 
+        "contact_names": [], 
+        "contact_emails": [
+          ""
+        ], 
+        "youth_category": [
+          ""  
+        ], 
+        "target_populations": [
+          ""
+        ], 
+        "age_range": "", 
+        "additional_notes": ""
+      }
+    },
+    {
+     "type": "Feature",
+    
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-72.6411923, 42.3250492]
+  },
+ "properties": {
+        "address": "111 MAIN ST, AMHERST, MA, 01002", 
+        "organization_name": "Amherst", 
+        "city": "Amherst", 
+        "web_url": "", 
+        "phone_numbers": [
+          ""
+        ], 
+        "contact_names": [], 
+        "contact_emails": [
+          ""
+        ], 
+        "youth_category": [
+          ""  
+        ], 
+        "target_populations": [
+          ""
+        ], 
+        "age_range": "", 
+        "additional_notes": ""
+      }
+    },
+    {
+     "type": "Feature",
+    
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-72.6411923, 42.3250492]
+  },
+ "properties": {
+        "address": "111 MAIN ST, AMHERST, MA, 01002", 
+        "organization_name": "Amherst", 
+        "city": "Amherst", 
+        "web_url": "", 
+        "phone_numbers": [
+          ""
+        ], 
+        "contact_names": [], 
+        "contact_emails": [
+          ""
+        ], 
+        "youth_category": [
+          ""  
+        ], 
+        "target_populations": [
+          ""
+        ], 
+        "age_range": "", 
+        "additional_notes": ""
+      }
+    },
+   
+ {
+     "type": "Feature",
+    
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-72.6411923, 42.3250492]
+  },
+ "properties": {
+        "address": "111 MAIN ST, AMHERST, MA, 01002", 
+        "organization_name": "Amherst", 
+        "city": "Amherst", 
+        "web_url": "", 
+        "phone_numbers": [
+          ""
+        ], 
+        "contact_names": [], 
+        "contact_emails": [
+          ""
+        ], 
+        "youth_category": [
+          ""  
+        ], 
+        "target_populations": [
+          ""
+        ], 
+        "age_range": "", 
+        "additional_notes": ""
+      }
+    },
+     {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.51688981052934,
+                    42.37576533073424
+                ]
+            },
+            "properties": {
+                "address": "111 MAIN ST, AMHERST, MA, 01002",
+                "organization_name": "Amherst",
+                "city": "Amherst",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+
+         {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.67130005300787,
+                    42.26602806199859
+                ]
+            },
+            "properties": {
+                "address": "32 PAYSON AVE, EASTHAMPTON, MA, 01027",
+                "organization_name": "Easthampton",
+                "city": "Easthampton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        }
+  ]
+  }
